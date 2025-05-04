@@ -1,6 +1,9 @@
 # Dark Ambient Tutorials
 Ich mache Dark Ambient Tutorials. Hier ist die Linksammlung.
 
+  - [Dark Ambient Tutorial Videos 1-3](https://vimeo.com/showcase/11693090)
+  - [Dark Ambient Tutorial Videos 1-3 Track: „Chaos und Untergang“](https://wolfmond.bandcamp.com/track/chaos-und-untergang)
+
 ## [Dark Ambient Tutorial #1: Chopin → geisterhafte Melodie](https://vimeo.com/showcase/11693090?video=1081024517)
 
   - [Ardour](https://ardour.org)
